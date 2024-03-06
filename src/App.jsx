@@ -1,11 +1,11 @@
 import React from 'react'
-import TableRenderer from "./TableRenderer"
+import MainComponent from './Components/main';
 
 const App = () => {
 
   return (
     <div>
-     <TableRenderer />
+     <MainComponent />
     </div>
   );
 };
